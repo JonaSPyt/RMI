@@ -1,3 +1,6 @@
+O código implementa a lógica de um servidor RMI (Remote Method Invocation) para o jogo de tabuleiro Seega, permitindo que múltiplos clientes (máximo dois jogadores) se conectem e joguem remotamente com atualização em tempo real do estado do jogo e chat integrado.
+
+
 # RMI
 1. Iniciar o Servidor
 Abra um terminal e execute:
